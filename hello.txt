@@ -1,3 +1,8 @@
 hello word！
+<<<<<<< HEAD
 hello word！
 hello word！
+=======
+
+hello word！hello word！hello word！hello word！
+>>>>>>> test
